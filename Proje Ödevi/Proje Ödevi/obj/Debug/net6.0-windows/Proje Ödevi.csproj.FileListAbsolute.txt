@@ -1,0 +1,18 @@
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\bin\Debug\net6.0-windows\Proje Ödevi.exe
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\bin\Debug\net6.0-windows\Proje Ödevi.deps.json
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\bin\Debug\net6.0-windows\Proje Ödevi.runtimeconfig.json
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\bin\Debug\net6.0-windows\Proje Ödevi.dll
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\bin\Debug\net6.0-windows\Proje Ödevi.pdb
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\obj\Debug\net6.0-windows\Proje Ödevi.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\obj\Debug\net6.0-windows\Proje_Ödevi.Form1.resources
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\obj\Debug\net6.0-windows\Proje_Ödevi.Form2.resources
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\obj\Debug\net6.0-windows\Proje Ödevi.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\obj\Debug\net6.0-windows\Proje Ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\obj\Debug\net6.0-windows\Proje Ödevi.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\obj\Debug\net6.0-windows\Proje Ödevi.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\obj\Debug\net6.0-windows\Proje Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\obj\Debug\net6.0-windows\Proje Ödevi.dll
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\obj\Debug\net6.0-windows\refint\Proje Ödevi.dll
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\obj\Debug\net6.0-windows\Proje Ödevi.pdb
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\obj\Debug\net6.0-windows\Proje Ödevi.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Proje Ödevi\Proje Ödevi\obj\Debug\net6.0-windows\ref\Proje Ödevi.dll
